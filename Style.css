@@ -1,0 +1,45 @@
+@charset "utf-8";
+.container header {
+    background-color: #00FF60;
+}
+.container #hero .hero_header {
+
+
+}
+.container #hero {
+    background-image: url(images/background.webp);
+}
+.container #about {
+    background-image: -webkit-linear-gradient(270deg,rgba(95,69,179,1.00) 0%,rgba(255,218,218,1.00) 14.51%,rgba(255,184,184,1.00) 25.39%,rgba(255,163,163,1.00) 36.53%,rgba(255,159,159,1.00) 37.56%,rgba(205,165,165,1.00) 42.23%,rgba(255,130,130,1.00) 48.70%,rgba(65,180,123,1.00) 55.70%,rgba(182,15,15,1.00) 73.32%,rgba(187,160,160,1.00) 83.94%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(95,69,179,1.00) 0%,rgba(255,218,218,1.00) 14.51%,rgba(255,184,184,1.00) 25.39%,rgba(255,163,163,1.00) 36.53%,rgba(255,159,159,1.00) 37.56%,rgba(205,165,165,1.00) 42.23%,rgba(255,130,130,1.00) 48.70%,rgba(65,180,123,1.00) 55.70%,rgba(182,15,15,1.00) 73.32%,rgba(187,160,160,1.00) 83.94%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(95,69,179,1.00) 0%,rgba(255,218,218,1.00) 14.51%,rgba(255,184,184,1.00) 25.39%,rgba(255,163,163,1.00) 36.53%,rgba(255,159,159,1.00) 37.56%,rgba(205,165,165,1.00) 42.23%,rgba(255,130,130,1.00) 48.70%,rgba(65,180,123,1.00) 55.70%,rgba(182,15,15,1.00) 73.32%,rgba(187,160,160,1.00) 83.94%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(95,69,179,1.00) 0%,rgba(255,218,218,1.00) 14.51%,rgba(255,184,184,1.00) 25.39%,rgba(255,163,163,1.00) 36.53%,rgba(255,159,159,1.00) 37.56%,rgba(205,165,165,1.00) 42.23%,rgba(255,130,130,1.00) 48.70%,rgba(65,180,123,1.00) 55.70%,rgba(182,15,15,1.00) 73.32%,rgba(187,160,160,1.00) 83.94%,rgba(255,0,0,1.00) 100%);
+}
+.container #contact {
+    background-image: url(images/background.webp);
+}
+.container .banner {
+    background-image: url(images/background.webp);
+}
+.container .copyright {
+}
+
+
+
+
+
+
+.container header nav {
+    background-color: #00FF60;
+}
+
+
+
+
+
+}
+#hero .hero_header .light {
+}
+.container .copyright {
+    background-color: #00FF60;
+}
